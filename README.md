@@ -1,2 +1,2 @@
 # Learn_LOG
-Study for Tistory
+Study log for Tistory
