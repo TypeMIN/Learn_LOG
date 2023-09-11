@@ -1,0 +1,155 @@
+{
+  "main": {
+    "id": "7887fb43969125bf",
+    "type": "split",
+    "children": [
+      {
+        "id": "792b15e8197491df",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8fa65c8c037981c6",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "3d9b0155ab13875b",
+    "type": "split",
+    "children": [
+      {
+        "id": "cd0af472ed734682",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "15c7654500e0ca24",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "5677899ac2ab61d0",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "ff93d5c44de68169",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "21b67ec8bdbdf894",
+    "type": "split",
+    "children": [
+      {
+        "id": "65bd1bf34cd87f56",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2f8f204e080949a3",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "b2dbfcc2737ae16f",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "220d21e89a239758",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "8d221da1f2f15659",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:퀵 스위처 열기": false,
+      "graph:그래프 뷰 열기": false,
+      "canvas:새 캔버스 만들기": false,
+      "daily-notes:오늘의 데일리 노트 열기": false,
+      "templates:템플릿 삽입": false,
+      "command-palette:명령어 팔레트 열기": false
+    }
+  },
+  "active": "8fa65c8c037981c6",
+  "lastOpenFiles": [
+    "C++/C++.md",
+    "Git & Github/Git.md",
+    "Git & Github/Github.md",
+    "Markdown/Markdown.md",
+    "Python/Python.md",
+    "SQL/SQL.md",
+    "SQL",
+    "Python",
+    "Markdown",
+    "Git & Github",
+    "C++"
+  ]
+}
