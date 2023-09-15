@@ -1,2 +1,2 @@
 # Learn_LOG
-Study log for Tistory
+Learn log with Obsidian
